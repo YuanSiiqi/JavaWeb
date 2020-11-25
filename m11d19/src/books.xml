@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<configuration>
+<students>
+    <student>
+        <sid>1</sid>
+        <sname>张三</sname>
+        <age>19</age>
+        <sex>男</sex>
+        <department>数学系</department>
+        <address>无</address>
+        <birthplace>福州</birthplace>
+
+    </student>
+    <student>
+        <sid>2</sid>
+        <sname>李四</sname>
+        <age>20</age>
+        <sex>男</sex>
+        <department>文学系</department>
+        <address>无</address>
+        <birthplace>厦门</birthplace>
+    </student>
+    <student>
+        <sid>3</sid>
+        <sname>王五</sname>
+        <age>19</age>
+        <sex>女</sex>
+        <department>英语系</department>
+        <address>无</address>
+        <birthplace>泉州</birthplace>
+    </student>
+
+</students>
+</configuration>
